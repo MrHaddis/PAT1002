@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49db988f-f268-47d5-b021-af9363cbc7ab" name="Default Changelist" comment="" />
+    <list default="true" id="49db988f-f268-47d5-b021-af9363cbc7ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VVd5XECt7enwvRUnSimQSHoGs6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -118,7 +124,7 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <configuration name="demo1002" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo1002" TARGET_NAME="demo1002" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo1002" RUN_TARGET_NAME="demo1002">
+    <configuration name="demo1002" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PAT1002" TARGET_NAME="demo1002" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PAT1002" RUN_TARGET_NAME="demo1002">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -161,6 +167,7 @@
       <workItem from="1591237801167" duration="3000" />
       <workItem from="1591238609654" duration="62000" />
       <workItem from="1591347215276" duration="26000" />
+      <workItem from="1591836940667" duration="200000" />
     </task>
     <servers />
   </component>
@@ -172,6 +179,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1591836945279" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1591857311654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591857311654" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1591857311654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591857311654" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1591857311654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591857311654" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1591857311654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591857311654" />
     <state x="680" y="178" key="refactoring.ChangeSignatureDialog" timestamp="1590046674735">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
